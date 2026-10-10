@@ -2,6 +2,8 @@
 
 검은 비니를 쓴 새하얀 토끼를 위한 ChatGPT Work 커스텀 펫 파일입니다.
 
+[동작 미리보기와 다운로드 안내 사이트](https://beanie-bunny-pet.orange-cat-ai.chatgpt.site/)
+
 ![Beanie Bunny 동작 미리보기](all-states.gif)
 
 ## 받기
